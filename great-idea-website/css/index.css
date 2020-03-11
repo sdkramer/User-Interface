@@ -68,7 +68,7 @@ h1, h2, h3, h4, h5 {
 
 /* Nav bar code */
 nav {
-	display: block;
+	display: inline;
 	padding: 20px;
 	background-color: cornflowerblue;
 	position: fixed;
@@ -77,7 +77,7 @@ nav {
 
 nav a {
 	margin: 0 2%;
-	width: 100%
+	width: 100%;
 }
 
 .logo {
@@ -151,4 +151,5 @@ header img {
 footer {
 	text-align: center;
 	padding: 40px;
+	font-family: "Courier New", Courier, monospace;
 }
