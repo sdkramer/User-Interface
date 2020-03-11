@@ -77,6 +77,11 @@ nav {
 
 nav a {
 	margin: 0 2%;
+	width: 100%
+}
+
+.logo {
+	margin: 20px 0 0 80px
 }
 
 /* Main section */
@@ -121,6 +126,11 @@ header img {
 	display: inline-block;
 }
 
+/* middle image code */
+.middle-img {
+	width: 100%;
+}
+
 /* bottom-container code */
 
 .bottom-container {
@@ -130,6 +140,10 @@ header img {
 .bottom-container div {
 	width: 30%;
 	display: inline-block;
+}
+
+#services, #product {
+	margin-right: 1%;
 }
 
 /* footer code */
